@@ -151,8 +151,8 @@ export default function Home() {
       <section className="relative h-[90vh] my-32">
 
         <Image
-          src="/images/playa.jpg"
-          alt="playa"
+          src="/images/Playa.jpg"
+          alt="Playa"
           fill
           className="object-cover"
         />
@@ -268,8 +268,8 @@ export default function Home() {
               className="order-1 md:order-2"
             >
               <Image
-                src="/images/recuerdos.jpg"
-                alt="recuerdos"
+                src="/images/Recuerdos.jpg"
+                alt="Recuerdos"
                 width={700}
                 height={800}
                 className="rounded-3xl shadow-xl"
@@ -421,8 +421,8 @@ export default function Home() {
       <section className="relative py-40 px-6 text-center overflow-hidden">
 
         <Image
-          src="/images/final.jpg"
-          alt="final"
+          src="/images/Final.jpg"
+          alt="Final"
           fill
           className="object-cover"
         />
