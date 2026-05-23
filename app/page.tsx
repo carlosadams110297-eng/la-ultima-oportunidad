@@ -421,8 +421,8 @@ export default function Home() {
       <section className="relative py-40 px-6 text-center overflow-hidden">
 
         <Image
-          src="/images/Final.jpg"
-          alt="Final"
+          src="/images/final.jpg"
+          alt="final"
           fill
           className="object-cover"
         />
