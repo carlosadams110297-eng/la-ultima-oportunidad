@@ -152,7 +152,7 @@ export default function Home() {
 
         <Image
           src="/images/playa.jpg"
-          alt="Playa"
+          alt="playa"
           fill
           className="object-cover"
         />
@@ -268,8 +268,8 @@ export default function Home() {
               className="order-1 md:order-2"
             >
               <Image
-                src="/images/cafe.jpg"
-                alt="Recuerdos"
+                src="/images/recuerdos.jpg"
+                alt="recuerdos"
                 width={700}
                 height={800}
                 className="rounded-3xl shadow-xl"
