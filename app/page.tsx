@@ -167,9 +167,9 @@ export default function Home() {
             transition={{ duration: 1.5 }}
             className="text-white text-4xl md:text-7xl leading-relaxed max-w-5xl italic"
           >
-            “Nunca imaginé que tantos recuerdos
+            “Quiero seguir consruyendo recuerdos contigo.
             <br />
-            pudieran doler tan bonito.”
+            Es lo que mas quiero.”
           </motion.h2>
 
         </div>
@@ -421,7 +421,7 @@ export default function Home() {
       <section className="relative py-40 px-6 text-center overflow-hidden">
 
         <Image
-          src="/images/fuego.jpg"
+          src="/images/Final.jpg"
           alt="Final"
           fill
           className="object-cover"
