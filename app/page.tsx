@@ -1,9 +1,29 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 export default function Home() {
   const [showPhotos, setShowPhotos] = useState(false);
+
+  const fullText =
+    "TODOS LOS DÍAS DE MI VIDA VOY A SEGUIR ESCRIBIENDO AQUÍ.";
+
+  const [typedText, setTypedText] = useState("");
+
+  useEffect(() => {
+    let index = 0;
+
+    const interval = setInterval(() => {
+      setTypedText(fullText.slice(0, index));
+      index++;
+
+      if (index > fullText.length) {
+        clearInterval(interval);
+      }
+    }, 60);
+
+    return () => clearInterval(interval);
+  }, []);
 
   return (
     <main className="min-h-screen bg-[#f7f1ea] text-[#5a4b4b] px-6 py-16">
@@ -14,11 +34,13 @@ export default function Home() {
           perdóname Sara
         </h1>
 
-        <p className="text-xl md:text-2xl leading-relaxed italic max-w-3xl mx-auto">
-          TODOS LOS DÍAS DE MI VIDA VOY A SEGUIR ESCRIBIENDO AQUÍ.
-          <br /><br />
+        <p className="text-xl md:text-2xl leading-relaxed italic max-w-3xl mx-auto min-h-[120px]">
+          {typedText}
+          <br />
+          <br />
           Porque incluso cuando no sepa cómo encontrarte, siempre voy a encontrar la forma de hablarte.
-          <br /><br />
+          <br />
+          <br />
           Y si algún día quieres saber de mí, de lo que siento o de cuánto te sigo extrañando… vuelve aquí.
         </p>
       </section>
@@ -40,7 +62,10 @@ export default function Home() {
             ["2026", "Nuestro destino nos unió de nuevo y no dejaré de intentar arreglar nuestros problemas."]
           ].map(([year, text]) => (
             <div key={year}>
-              <h3 className="text-3xl font-bold text-[#8b1e3f] mb-2">{year}</h3>
+              <h3 className="text-3xl font-bold text-[#8b1e3f] mb-2">
+                {year}
+              </h3>
+
               <p className="text-lg">{text}</p>
             </div>
           ))}
@@ -64,9 +89,11 @@ export default function Home() {
           ].map((text, index) => (
             <div
               key={index}
-              className="bg-[#fffaf5] shadow-xl rounded-3xl p-10 border border-[#eaded1]"
+              className="bg-[#fffaf5] shadow-xl rounded-3xl p-10 border border-[#eaded1] transition-all duration-300 hover:scale-[1.01]"
             >
-              <p className="text-lg leading-10 whitespace-pre-line">{text}</p>
+              <p className="text-lg leading-10 whitespace-pre-line">
+                {text}
+              </p>
             </div>
           ))}
         </div>
@@ -107,7 +134,7 @@ export default function Home() {
 
         <button
           onClick={() => setShowPhotos(true)}
-          className="bg-[#8b1e3f] hover:bg-[#a3284c] text-white px-10 py-5 rounded-full text-xl transition-all duration-300 shadow-xl"
+          className="bg-[#8b1e3f] hover:bg-[#a3284c] text-white px-10 py-5 rounded-full text-xl transition-all duration-300 shadow-xl hover:scale-105"
         >
           desbloquéame, solo basta con esto
         </button>
@@ -120,7 +147,8 @@ export default function Home() {
 
             <p className="text-xl leading-10">
               Porque todavía sigo creyendo en nosotros.
-              <br /><br />
+              <br />
+              <br />
               Aquí podrás colocar sus fotos juntos más adelante ❤️
             </p>
           </div>
