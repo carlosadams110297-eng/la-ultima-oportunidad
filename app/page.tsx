@@ -151,8 +151,8 @@ export default function Home() {
       <section className="relative h-[90vh] my-32">
 
         <Image
-          src="/images/Playa.jpg"
-          alt="Playa"
+          src="/images/PLAYA.jpg"
+          alt="PlAYA"
           fill
           className="object-cover"
         />
