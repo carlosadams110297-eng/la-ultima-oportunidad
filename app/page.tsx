@@ -445,7 +445,28 @@ export default function Home() {
             whileInView={{ opacity: 1 }}
             transition={{ duration: 2 }}
             className="text-white/90 text-2xl leading-10 mb-16"
-          >
+          ><section className="diario">
+  <h2>PASAN LOS DÍAS Y ACÁ SIGO</h2>
+
+  <div className="carta">
+    <h3>24 Mayo 2026</h3>
+    <p>
+      Hoy volví a pensar en ti.
+      <br /><br />
+      A veces siento que el tiempo avanza demasiado rápido,
+      pero mis sentimientos siguen exactamente en el mismo lugar.
+    </p>
+  </div>
+
+  <div className="carta">
+    <h3>25 Mayo 2026</h3>
+    <p>
+      Hay canciones que todavía me recuerdan a ti.
+      <br /><br />
+      Y aunque intento distraerme, siempre termino pensando en nosotros.
+    </p>
+  </div>
+</section>
             Nunca dejé de amarte.
             <br /><br />
             Lo que pasó fue que dejé de saber cómo sostenerme a mí mismo.

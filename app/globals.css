@@ -41,4 +41,53 @@ h1, h2, h3 {
 
 html {
   scroll-behavior: smooth;
+}.diario {
+  padding: 80px 20px;
+  background: #f4e7c5;
+  text-align: center;
+}
+
+.diario h2 {
+  font-size: 3rem;
+  margin-bottom: 50px;
+  color: #5a3e2b;
+  font-family: "Georgia", serif;
+  letter-spacing: 2px;
+}
+
+.carta {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 40px;
+  background: #fdf6e3;
+  border: 1px solid #d8c3a5;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+
+  text-align: left;
+
+  font-family: "Times New Roman", serif;
+  color: #4b3425;
+
+  position: relative;
+}
+
+.carta::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url("https://www.transparenttextures.com/patterns/old-paper.png");
+  opacity: 0.15;
+  pointer-events: none;
+}
+
+.carta h3 {
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  color: #6b4f3b;
+}
+
+.carta p {
+  line-height: 1.9;
+  font-size: 1.1rem;
 }
