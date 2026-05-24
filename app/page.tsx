@@ -147,12 +147,12 @@ export default function Home() {
 
       </section>
 
-      {/* FOTO PLAYA */}
+      {/* FOTO laprimera */}
       <section className="relative h-[90vh] my-32">
 
         <Image
-          src="/images/PLAYA.jpg"
-          alt="PlAYA"
+          src="/images/laprimera.jpg"
+          alt="laprimera"
           fill
           className="object-cover"
         />
