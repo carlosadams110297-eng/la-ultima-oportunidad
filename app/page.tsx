@@ -466,6 +466,44 @@ export default function Home() {
       Y aunque intento distraerme, siempre termino pensando en nosotros.
     </p>
   </div>
+  <h2>PASAN LOS DÍAS Y ACÁ SIGO</h2>
+
+<div className="carta">
+  <h3>27 Mayo 2026</h3>
+  <p>
+    No sé en qué momento las pequeñas cosas comenzaron a doler tanto.
+    <br /><br />
+
+    Extraño la manera en que me hablabas, tus mensajes, tu voz calmándome incluso cuando no decías nada importante.
+    <br /><br />
+
+    Extraño nuestros sobrenombres, esas palabras tontas que solo tenían sentido entre nosotros y que ahora resuenan en mi cabeza como recuerdos imposibles de repetir.
+    <br /><br />
+
+    Extraño tu risa.
+    <br /><br />
+
+    Extraño tu olor en mi ropa, en las almohadas, en esos lugares donde aún parece que sigues aquí aunque ya no estés.
+    <br /><br />
+
+    Hay días en los que cierro los ojos solo para intentar recordar exactamente cómo sonaba tu voz diciendo mi nombre, Sara Salazar.
+    <br /><br />
+
+    Y lo peor es que sigo pensando en las cosas más simples…
+    <br /><br />
+
+    Hoy hice un omelet, como el que tanto te gustó aquellos últimos días.
+    <br /><br />
+
+    Mientras cocinaba no podía dejar de imaginar tu reacción, tus comentarios y esa pequeña sonrisa que hacías cuando algo realmente te gustaba.
+    <br /><br />
+
+    Me duele.
+    <br /><br />
+
+    Me parte el alma pensar que quizás nunca vuelva a cocinarte algo otra vez.
+  </p>
+</div>
 </section>
             Nunca dejé de amarte.
             <br /><br />
