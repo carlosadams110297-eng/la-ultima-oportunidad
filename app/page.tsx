@@ -448,8 +448,50 @@ export default function Home() {
           ><section className="diario">
   <h2>PASAN LOS DÍAS Y ACÁ SIGO</h2>
 
+<div className="carta">
+  <h3>27 Mayo 2026</h3>
+  <p>
+    Hoy fue uno de esos días difíciles.
+    <br /><br />
+
+    De esos en los que todo pesa más de lo normal y la cabeza no deja de dar vueltas aunque intente distraerme.
+    <br /><br />
+
+    Y mientras el día avanzaba, no podía dejar de pensar en ti, Sara Salazar.
+    <br /><br />
+
+    Extraño la manera en que solías calmarme cuando me sentía así.
+    <br /><br />
+
+    Extraño escuchar tu voz diciéndome que todo iba a estar bien incluso cuando yo sentía que el mundo se estaba cayendo encima.
+    <br /><br />
+
+    Últimamente siento que no tengo rumbo.
+    <br /><br />
+
+    Como si estuviera caminando sin dirección, intentando encontrar algo que me devuelva la tranquilidad que tenía cuando estabas conmigo.
+    <br /><br />
+
+    Porque tú eras eso para mí.
+    <br /><br />
+
+    Eras la persona que lograba mantenerme centrado incluso en mis peores momentos.
+    <br /><br />
+
+    Y ahora que no estás, me doy cuenta de cuánto dependía de tu manera de cuidarme sin siquiera notarlo.
+    <br /><br />
+
+    Hay un arrepentimiento que me acompaña cada día.
+    <br /><br />
+
+    Me arrepiento cada segundo de mi vida de haberme ido aquel sábado.
+    <br /><br />
+
+    Ojalá pudiera regresar el tiempo aunque fuera solo un momento para quedarme un poco más contigo.
+  </p>
+</div>
   <div className="carta">
-    <h3>24 Mayo 2026</h3>
+    <h3>26 Mayo 2026</h3>
     <p>
       Hoy volví a pensar en ti.
       <br /><br />
@@ -459,17 +501,16 @@ export default function Home() {
   </div>
 
   <div className="carta">
-    <h3>25 Mayo 2026</h3>
+    <h3>26 Mayo 2026</h3>
     <p>
       Hay canciones que todavía me recuerdan a ti.
       <br /><br />
       Y aunque intento distraerme, siempre termino pensando en nosotros.
     </p>
   </div>
-  <h2>PASAN LOS DÍAS Y ACÁ SIGO</h2>
-
+  
 <div className="carta">
-  <h3>27 Mayo 2026</h3>
+  <h3>25 Mayo 2026</h3>
   <p>
     No sé en qué momento las pequeñas cosas comenzaron a doler tanto.
     <br /><br />
