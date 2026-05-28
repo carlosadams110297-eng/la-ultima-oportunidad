@@ -447,7 +447,108 @@ export default function Home() {
             className="text-white/90 text-2xl leading-10 mb-16"
           ><section className="diario">
   <h2>PASAN LOS DÍAS Y ACÁ SIGO</h2>
+<div className="carta">
+  <h3>28 Mayo 2026</h3>
+  <p>
+    Ha pasado casi un mes desde que te fuiste, Sara Salazar…
+    <br /><br />
 
+    y aun así, el tiempo se siente completamente roto.
+    <br /><br />
+
+    No parece un mes.
+    <br /><br />
+
+    Se siente como una década entera viviendo dentro del mismo día triste.
+    <br /><br />
+
+    Nunca imaginé que la ausencia de una persona pudiera pesar tanto.
+    <br /><br />
+
+    Pero desde que ya no estás aquí, todo en Chile comenzó a sentirse extraño, vacío, ajeno.
+    <br /><br />
+
+    Como si este país hubiera perdido el sentido apenas dejaste de caminar a mi lado.
+    <br /><br />
+
+    Manejo durante horas solo para distraerme, pero no funciona.
+    <br /><br />
+
+    Porque en cada calle apareces tú.
+    <br /><br />
+
+    En cada semáforo.
+    <br /><br />
+
+    En cada canción que suena de fondo mientras conduzco de noche.
+    <br /><br />
+
+    Tu presencia me acompaña incluso cuando no estás.
+    <br /><br />
+
+    Y a veces eso duele más.
+    <br /><br />
+
+    Paso por lugares donde fuimos felices y siento que el pecho se me rompe lentamente.
+    <br /><br />
+
+    Ese café donde te reías tan fuerte que todos volteaban a mirarte.
+    <br /><br />
+
+    Las avenidas donde hablábamos del futuro como si fuera algo seguro.
+    <br /><br />
+
+    Las noches eternas dentro del auto, cuando el mundo parecía detenerse solo para escucharnos existir juntos.
+    <br /><br />
+
+    Ahora conduzco solo por esos mismos lugares y todo se siente vacío.
+    <br /><br />
+
+    Como una película abandonada después de la escena más importante.
+    <br /><br />
+
+    La verdad es que no sé cómo seguir viviendo aquí sin ti.
+    <br /><br />
+
+    Porque mi vida en este país siempre fue contigo.
+    <br /><br />
+
+    Cada recuerdo importante que tengo en Chile lleva tu nombre escondido en algún rincón.
+    <br /><br />
+
+    Y últimamente no puedo dejar de pensar que si no estoy contigo aquí…
+    <br /><br />
+
+    entonces ya no tiene sentido seguir en este lugar.
+    <br /><br />
+
+    Extraño cómo calmabas mis días malos.
+    <br /><br />
+
+    Extraño sentir que tenía un hogar aunque no supiera exactamente dónde estaba, porque mientras estuvieras tú, todo parecía estar bien.
+    <br /><br />
+
+    Ahora me siento perdido.
+    <br /><br />
+
+    Como si hubiera tomado una carretera larguísima sin dirección, esperando encontrarte en algún semáforo imposible.
+    <br /><br />
+
+    Ojalá pudieras ver cuánto te extraño.
+    <br /><br />
+
+    Ojalá pudieras sentir el vacío enorme que dejaste en cada parte de mi vida.
+    <br /><br />
+
+    Porque aunque pase el tiempo…
+    <br /><br />
+
+    sigues apareciendo en cada calle, en cada trayecto, en cada pensamiento silencioso de madrugada.
+    <br /><br />
+
+    Y honestamente… todavía no sé cómo aprender a vivir sin ti.
+  </p>
+</div>
 <div className="carta">
   <h3>27 Mayo 2026</h3>
   <p>
