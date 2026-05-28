@@ -492,7 +492,7 @@ export default function Home() {
     Paso por lugares donde fuimos felices y siento que el pecho se me rompe lentamente.
     <br /><br />
 
-    Ese café donde te reías tan fuerte que todos volteaban a mirarte.
+    Esos sitios donde nos reiamos y hablamos sobre nuestros planes futuros.
     <br /><br />
 
     Las avenidas donde hablábamos del futuro como si fuera algo seguro.
