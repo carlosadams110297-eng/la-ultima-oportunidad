@@ -447,6 +447,128 @@ export default function Home() {
             className="text-white/90 text-2xl leading-10 mb-16"
           ><section className="diario">
   <h2>PASAN LOS DÍAS Y ACÁ SIGO</h2>
+<section className="mb-20">
+  <h2 className="text-4xl font-serif text-amber-200 mb-8 text-center">
+    EL PESO DEL SILENCIO
+  </h2>
+
+  <div className="max-w-4xl mx-auto bg-black/30 p-8 rounded-lg backdrop-blur-sm">
+    <p className="text-amber-100 italic mb-6">
+      30 de Mayo de 2026
+    </p>
+
+    <div className="space-y-4 text-amber-50 leading-relaxed">
+      <p>Sara:</p>
+
+      <p>
+        Hoy vuelvo a sentarme frente a esta página con la esperanza de que,
+        en algún rincón del tiempo, estas palabras puedan llegar hasta ti.
+      </p>
+
+      <p>
+        Quiero empezar pidiéndote perdón. Perdón por haberte escrito el jueves.
+        Sé que probablemente no era lo correcto y sé que tal vez fue una
+        molestia que no merecías recibir. No hubo ninguna mala intención detrás
+        de aquel mensaje; simplemente tuve uno de esos días en los que todo pesa
+        demasiado. La ansiedad me ganó la batalla y, como tantas veces en el
+        pasado, mi mente buscó refugio en la única persona que siempre supo
+        devolverme la calma.
+      </p>
+
+      <p>
+        Tú.
+      </p>
+
+      <p>
+        Durante mucho tiempo fuiste ese lugar seguro al que podía acudir cuando
+        sentía que el mundo se derrumbaba sobre mí. Eras quien lograba ordenar
+        mis pensamientos cuando todo parecía un caos. Y aunque hoy ya no ocupes
+        ese lugar en mi vida, hay días en los que mi corazón sigue buscándote
+        por costumbre, como quien intenta volver a casa después de perderse en
+        la oscuridad.
+      </p>
+
+      <p>
+        Lo que más me duele no es el silencio de un mensaje sin responder. Lo
+        que realmente me duele es darme cuenta de que, por más caminos que
+        intento encontrar para acercarme a ti, no consigo ninguna señal de que
+        aún exista un espacio para mí en tu vida.
+      </p>
+
+      <p>
+        Poco a poco comienzo a entender algo que llevaba meses negándome a
+        aceptar.
+      </p>
+
+      <p>
+        Quizás me estás olvidando.
+      </p>
+
+      <p>
+        Quizás estás cumpliendo aquella promesa que hiciste aquel maldito
+        sábado. Ese sábado que cambió nuestras vidas y que se convirtió en el
+        día que más he lamentado desde entonces. A veces pienso en cada decisión
+        que tomé, en cada palabra que dije y en todo lo que habría dado por
+        tener una segunda oportunidad para hacer las cosas de otra manera.
+      </p>
+
+      <p>
+        Porque si hay algo de lo que estoy seguro, es que aquel fue el peor
+        error de mi vida.
+      </p>
+
+      <p>
+        Los días siguen avanzando, el calendario sigue cambiando y el mundo
+        continúa girando, pero hay una parte de mí que parece haberse quedado
+        atrapada en el recuerdo de lo que fuimos. En las conversaciones que
+        extraño. En las risas que ya no escucho. En la tranquilidad que
+        encontraba simplemente sabiendo que estabas ahí.
+      </p>
+
+      <p>
+        No sé si algún día leerás estas cartas.
+      </p>
+
+      <p>
+        No sé si alguna vez descubrirás todas las palabras que he dejado aquí
+        para ti.
+      </p>
+
+      <p>
+        Pero mientras exista una mínima posibilidad, seguiré escribiendo.
+      </p>
+
+      <p>
+        Porque esta página se ha convertido en el único lugar donde todavía
+        puedo hablarte. El único rincón donde puedo decirte que te extraño, que
+        me haces falta y que hay días en los que el vacío que dejaste sigue
+        siendo imposible de ignorar.
+      </p>
+
+      <p>
+        Tal vez nunca reciban respuesta.
+      </p>
+
+      <p>
+        Tal vez permanezcan perdidas entre miles de páginas de internet.
+      </p>
+
+      <p>
+        Pero son mi manera de conservar viva la esperanza de que algún día
+        puedas ver cuánto significaste para mí y cuánto sigo lamentando haber
+        dejado escapar aquello que más quería.
+      </p>
+
+      <p className="mt-8">
+        Con todo lo que aún guardo en mi corazón,
+      </p>
+
+      <p>
+        Carlos.
+      </p>
+    </div>
+  </div>
+</section>
 <div className="carta">
   <h3>28 Mayo 2026</h3>
   <p>
