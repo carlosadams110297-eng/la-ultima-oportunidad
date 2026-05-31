@@ -447,11 +447,204 @@ export default function Home() {
             className="text-white/90 text-2xl leading-10 mb-16"
           ><section className="diario">
   <h2>PASAN LOS DÍAS Y ACÁ SIGO</h2>
+  <section className="mb-20">
 <section className="mb-20">
+  <h2 className="text-4xl font-serif text-amber-200 mb-8 text-center">
+    A POCOS DÍAS DE TU REGRESO
+  </h2>
+
+  <div className="max-w-4xl mx-auto bg-black/30 p-8 rounded-lg backdrop-blur-sm">
+    <p className="text-amber-100 italic mb-6">
+      31 de Mayo de 2026
+    </p>
+
+    <div className="space-y-4 text-amber-50 leading-relaxed">
+      <p>Sara:</p>
+
+      <p>
+        Hoy es 31 de mayo, y mientras los días avanzan me doy cuenta de que
+        cada vez falta menos para que regreses a Chile.
+      </p>
+
+      <p>
+        Debería sentir tranquilidad al saber que estás más cerca, pero la
+        verdad es que ocurre todo lo contrario. La ansiedad crece, la tristeza
+        se vuelve más pesada y mi mente no deja de imaginar escenarios que no
+        sé si alguna vez sucederán.
+      </p>
+
+      <p>
+        Intento aferrarme a la esperanza. A la idea de que tal vez podamos
+        vernos, sentarnos frente a frente y hablar.
+      </p>
+
+      <p>
+        No porque crea que todo puede volver a ser como antes, porque sé que
+        eso sería engañarme. Nada será igual a como era antes de que te fueras.
+      </p>
+
+      <p>
+        Han pasado demasiadas cosas, demasiado tiempo y demasiados silencios.
+        Pero aun sabiendo eso, sigo deseando tener la oportunidad de mirarte a
+        los ojos y contarte todo lo que he pensado durante este largo mes.
+      </p>
+
+      <p>
+        Me gustaría que supieras cuánto he reflexionado. Cuántas veces he
+        repasado nuestros errores, mis errores, y cuántas veces he imaginado
+        cómo habría actuado si hubiera tenido una segunda oportunidad.
+      </p>
+
+      <p>
+        No para justificarme, sino porque hoy veo cosas que antes no veía.
+        Porque hoy entiendo muchas cosas que en su momento no comprendí.
+      </p>
+
+      <p>
+        Pero mientras esa esperanza sigue viva, hay una realidad que me duele
+        cada día más:
+      </p>
+
+      <p>
+        No saber nada de ti.
+      </p>
+
+      <p>
+        Ese silencio me está consumiendo lentamente. No saber cómo estás, no
+        saber qué piensas, no saber si alguna vez lees mis palabras o si
+        simplemente ya forman parte de algo que dejaste atrás.
+      </p>
+
+      <p>
+        La incertidumbre se ha convertido en una compañía constante. Intento
+        distraerme, ocupar mi mente, enfocarme en otras cosas, pero la verdad
+        es que apenas consigo olvidarte durante unos segundos antes de que
+        vuelvas a aparecer en mis pensamientos.
+      </p>
+
+      <p>
+        Cinco segundos.
+      </p>
+
+      <p>
+        A veces ni siquiera eso.
+      </p>
+
+      <p>
+        Es agotador extrañar tanto a una persona y no tener ninguna forma de
+        saber si ella también te extraña.
+      </p>
+
+      <p>
+        Es doloroso caminar por lugares llenos de recuerdos y sentir que cada
+        esquina guarda una versión de nosotros que ya no existe.
+      </p>
+
+      <p>
+        Cada calle, cada conversación que recuerdo, cada lugar donde alguna vez
+        fuimos felices se ha convertido en un recordatorio de tu ausencia.
+      </p>
+
+      <p>
+        Nunca había sentido la ansiedad de esta manera. Nunca había sentido esta
+        desesperación silenciosa que aparece cuando despierto, que me acompaña
+        durante el día y que sigue ahí cuando intento dormir.
+      </p>
+
+      <p>
+        Hay momentos en los que siento que sigo avanzando únicamente porque no
+        tengo otra opción.
+      </p>
+
+      <p>
+        Y aun así, a pesar de todo, sigo esperando.
+      </p>
+
+      <p>
+        Sigo esperando una conversación.
+      </p>
+
+      <p>
+        Sigo esperando una oportunidad para decirte las cosas que quedaron
+        atrapadas en mi pecho.
+      </p>
+
+      <p>
+        Sigo esperando que algún día puedas ver el cambio que este tiempo ha
+        provocado en mí.
+      </p>
+
+      <p>
+        Tal vez sea una esperanza ingenua. Tal vez sea una batalla que ya está
+        perdida y yo todavía no quiero aceptarlo.
+      </p>
+
+      <p>
+        Lo único que sé es que te extraño más de lo que las palabras pueden
+        explicar.
+      </p>
+
+      <p>
+        Por eso, cuando la ansiedad se vuelve demasiado fuerte y siento que ya
+        no puedo cargar con ella, hago lo único que me queda: le pido a Dios
+        que te cuide.
+      </p>
+
+      <p>
+        Que te proteja donde estés, que te acompañe en cada paso y que te
+        regale toda la felicidad que yo siempre quise para ti.
+      </p>
+
+      <p>
+        Y después le pido algo para mí.
+      </p>
+
+      <p>
+        Le pido fuerzas.
+      </p>
+
+      <p>
+        Fuerzas para soportar los días que siguen pasando sin respuestas.
+      </p>
+
+      <p>
+        Fuerzas para convivir con tu ausencia.
+      </p>
+
+      <p>
+        Fuerzas para seguir adelante mientras mi corazón sigue esperando algo
+        que no sabe si llegará.
+      </p>
+
+      <p>
+        No sé qué ocurrirá cuando regreses. No sé si volveremos a hablar. No sé
+        si tendré la oportunidad de decirte todo esto algún día.
+      </p>
+
+      <p>
+        Pero si algo tengo claro después de este mes, es que sigues siendo la
+        persona que más extraño, la persona en la que más pienso y la persona
+        cuya ausencia más ha cambiado mi vida.
+      </p>
+
+      <p>
+        Y eso es una verdad que ni el tiempo ni la distancia han conseguido
+        borrar.
+      </p>
+
+      <p className="mt-8">
+        Con todo mi amor,
+      </p>
+
+      <p>
+        Carlos.
+      </p>
+    </div>
+  </div>
+</section>
   <h2 className="text-4xl font-serif text-amber-200 mb-8 text-center">
     EL PESO DEL SILENCIO
   </h2>
-
   <div className="max-w-4xl mx-auto bg-black/30 p-8 rounded-lg backdrop-blur-sm">
     <p className="text-amber-100 italic mb-6">
       30 de Mayo de 2026
