@@ -448,6 +448,228 @@ export default function Home() {
           ><section className="diario">
   <h2>PASAN LOS DÍAS Y ACÁ SIGO</h2>
   <section className="mb-20">
+  <h2 className="text-4xl font-serif text-amber-200 mb-8 text-center">
+    ENTRE SUEÑOS Y REALIDADES
+  </h2>
+
+  <div className="max-w-4xl mx-auto bg-black/30 p-8 rounded-lg backdrop-blur-sm">
+    <p className="text-amber-100 italic mb-6">
+      1 de Junio de 2026
+    </p>
+
+```
+<p className="mb-4">
+  Hola, Sara aca sigo.
+</p>
+
+<p className="mb-4">
+  Hay algo que me gustaria contarte.
+</p>
+
+<p className="mb-4">
+  Desde aquel sábado en que nuestros caminos se separaron, no ha habido una sola noche en la que no hayas aparecido en mis sueños.
+</p>
+
+<p className="mb-4">
+  Y es extraño.
+</p>
+
+<p className="mb-4">
+  Porque se ha convertido en el momento que más espero y que más temo al mismo tiempo.
+</p>
+
+<p className="mb-4">
+  Cada noche, cuando cierro los ojos, existe la posibilidad de volver a verte. De volver a escuchar tu voz. De volver a sentir que nada de esto ocurrió.
+</p>
+
+<p className="mb-4">
+  Por unas horas, todo parece diferente.
+</p>
+
+<p className="mb-4">
+  Y luego despierto.
+</p>
+
+<p className="mb-4">
+  Y todo desaparece.
+</p>
+
+<p className="mb-4">
+  Anoche fue una de esas noches.
+</p>
+
+<p className="mb-4">
+  Soñé que estábamos juntos. No había discusiones, ni distancia, ni silencios interminables. Estábamos simplemente juntos. Felices.
+</p>
+
+<p className="mb-4">
+  Recuerdo que te abrazaba con fuerza, como si tuviera miedo de perderte otra vez.
+</p>
+
+<p className="mb-4">
+  Y mientras te abrazaba, te pedía ayuda.
+</p>
+
+<p className="mb-4">
+  Te decía que no me dejaras solo en este proceso.
+</p>
+
+<p className="mb-4">
+  Te prometía que iba a sanar.
+</p>
+
+<p className="mb-4">
+  Que iba a mejorar.
+</p>
+
+<p className="mb-4">
+  Que iba a convertirme en el hombre que siempre debí ser.
+</p>
+
+<p className="mb-4">
+  Que algún día podría darte todo lo bueno que mereces de este mundo.
+</p>
+
+<p className="mb-4">
+  Y entonces ocurrió algo que todavía me duele recordar.
+</p>
+
+<p className="mb-4">
+  Me abrazaste de vuelta.
+</p>
+
+<p className="mb-4">
+  Me dijiste que todo estaba bien.
+</p>
+
+<p className="mb-4">
+  Que todo iba a estar bien.
+</p>
+
+<p className="mb-4">
+  Fue tan real.
+</p>
+
+<p className="mb-4">
+  Tan increíblemente real.
+</p>
+
+<p className="mb-4">
+  Por un instante olvidé que estaba soñando.
+</p>
+
+<p className="mb-4">
+  Sentí tu abrazo como si realmente estuvieras allí.
+</p>
+
+<p className="mb-4">
+  Como si nunca te hubieras ido.
+</p>
+
+<p className="mb-4">
+  Como si todavía existiera un lugar donde nosotros seguíamos siendo nosotros.
+</p>
+
+<p className="mb-4">
+  Pero los sueños siempre terminan.
+</p>
+
+<p className="mb-4">
+  Y esta vez fue una alarma.
+</p>
+
+<p className="mb-4">
+  Ese sonido que me arrancó de golpe de un mundo en el que todavía podía encontrarte.
+</p>
+
+<p className="mb-4">
+  Abrí los ojos y la habitación volvió a estar vacía.
+</p>
+
+<p className="mb-4">
+  La realidad regresó.
+</p>
+
+<p className="mb-4">
+  Y con ella, la certeza de que sigo aquí, extrañándote.
+</p>
+
+<p className="mb-4">
+  A veces me gusta creer que los sueños son ventanas hacia otras realidades.
+</p>
+
+<p className="mb-4">
+  Que en algún lugar existe otro mundo donde tomé mejores decisiones.
+</p>
+
+<p className="mb-4">
+  Un mundo donde supe quedarme.
+</p>
+
+<p className="mb-4">
+  Donde entendí a tiempo lo valioso que era tenerte.
+</p>
+
+<p className="mb-4">
+  Donde no permití que mis errores nos separaran.
+</p>
+
+<p className="mb-4">
+  Me gusta imaginar que en ese lugar seguimos juntos.
+</p>
+
+<p className="mb-4">
+  Que existe un Carlos que aprendió antes lo que yo aprendí demasiado tarde.
+</p>
+
+<p className="mb-4">
+  Y, aunque duela admitirlo, me alegra pensar que en algún rincón del universo él sigue abrazándote y cuidándote.
+</p>
+
+<p className="mb-4">
+  Porque si alguien merecía conservarte, era la mejor versión de mí.
+</p>
+
+<p className="mb-4">
+  No esta que escribe cartas en la madrugada intentando llenar el vacío que dejaste.
+</p>
+
+<p className="mb-4">
+  Mientras tanto, en esta realidad, sigo pidiéndole a Dios fuerza para continuar.
+</p>
+
+<p className="mb-4">
+  Sigo pidiéndole sabiduría para cambiar.
+</p>
+
+<p className="mb-4">
+  Sigo pidiéndole la oportunidad de convertirme en una mejor persona.
+</p>
+
+<p className="mb-4">
+  Y cada noche, cuando vuelvo a dormir, guardo una pequeña esperanza.
+</p>
+
+<p className="mb-4">
+  La esperanza de volver a encontrarte, aunque sea por unas horas.
+</p>
+
+<p className="mb-4">
+  Aunque sea en un sueño.
+</p>
+
+<p className="mt-8">
+  Con amor,
+</p>
+
+<p>
+  Carlos.
+</p>
+```
+
+  </div>
+</section>
+  <section className="mb-20">
 <section className="mb-20">
   <h2 className="text-4xl font-serif text-amber-200 mb-8 text-center">
     A POCOS DÍAS DE TU REGRESO
