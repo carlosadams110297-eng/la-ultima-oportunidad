@@ -447,12 +447,7 @@ export default function Home() {
             className="text-white/90 text-2xl leading-10 mb-16"
           ><section className="diario">
   <h2>PASAN LOS DÍAS Y ACÁ SIGO</h2>
-  <section className="mb-20">
-  <h2 className="text-4xl font-serif text-amber-200 mb-8 text-center">
-    ENTRE SUEÑOS Y REALIDADES
-  </h2>
-
-  <div className="max-w-4xl mx-auto bg-black/30 p-8 rounded-lg backdrop-blur-sm">
+    <div className="max-w-4xl mx-auto bg-black/30 p-8 rounded-lg backdrop-blur-sm">
     <p className="text-amber-100 italic mb-6">
       <section className="mb-20">
   <h2 className="text-4xl font-serif text-amber-200 mb-8 text-center">
@@ -619,8 +614,7 @@ export default function Home() {
       1 de Junio de 2026
     </p>
 
-```
-<p className="mb-4">
+```<p className="mb-4">
   Hola, Sara aca sigo.
 </p>
 
