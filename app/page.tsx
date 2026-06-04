@@ -454,6 +454,168 @@ export default function Home() {
 
   <div className="max-w-4xl mx-auto bg-black/30 p-8 rounded-lg backdrop-blur-sm">
     <p className="text-amber-100 italic mb-6">
+      <section className="mb-20">
+  <h2 className="text-4xl font-serif text-amber-200 mb-8 text-center">
+    EL SILENCIO SE HACE MÁS GRANDE
+  </h2>
+
+  <div className="max-w-4xl mx-auto bg-black/30 p-8 rounded-lg backdrop-blur-sm">
+    <p className="text-amber-100 italic mb-6">
+      5 de junio de 2026
+    </p>
+
+    <div className="space-y-6 text-amber-50 leading-relaxed">
+      <p>Querida Sara:</p>
+
+      <p>
+        Ayer me di cuenta de algo que, aunque quizás en el fondo ya sabía,
+        me golpeó como si fuera la primera vez.
+      </p>
+
+      <p>
+        Me bloqueaste de nuevo.
+      </p>
+
+      <p>
+        Por extraño que parezca, una pequeña parte de mí todavía conservaba
+        la esperanza de que aquel lugar siguiera abierto, de que quizás mis
+        mensajes no te molestaran tanto como para cerrar también esa puerta.
+        Pero entiendo que probablemente fue demasiado. Quizás mis mensajes
+        diarios terminaron cansándote. Quizás mi necesidad constante de saber
+        de ti terminó convirtiéndose en una carga.
+      </p>
+
+      <p>
+        Y si fue así, lo siento.
+      </p>
+
+      <p>
+        Porque la última cosa que he querido durante todo este tiempo ha sido
+        hacerte daño o incomodarte. Lo único que me ha movido ha sido la
+        desesperación de no saber absolutamente nada de ti.
+      </p>
+
+      <p>
+        Ha pasado casi un mes.
+      </p>
+
+      <p>
+        Un mes en el que cada día me he preguntado cómo estás, si estás bien,
+        si sonríes, si logras dormir mejor que yo. Un mes intentando
+        acostumbrarme a una ausencia para la que nunca estuve preparado.
+      </p>
+
+      <p>
+        Y aunque sé que debería aceptar la realidad, hay una parte de mí que
+        sigue buscando señales donde probablemente ya no las hay.
+      </p>
+
+      <p>
+        También he pensado mucho en esta página.
+      </p>
+
+      <p>
+        Al principio imaginaba que quizás entrarías de vez en cuando. Que tal
+        vez leerías alguna carta. Que quizás encontrarías entre estas palabras
+        algo que nunca supe decirte cuando todavía estabas a mi lado.
+      </p>
+
+      <p>
+        Ahora ya no lo sé.
+      </p>
+
+      <p>
+        Quizás la viste una vez y nunca volviste. Quizás nunca llegaste a leer
+        más allá de unas pocas líneas. Quizás estas palabras solo existen para
+        mí.
+      </p>
+
+      <p>
+        Y admitir eso me duele más de lo que puedo explicar.
+      </p>
+
+      <p>
+        Porque cada carta que escribo nace de la esperanza de que, en algún
+        lugar, tú las estés leyendo.
+      </p>
+
+      <p>
+        Estos últimos dos días he estado especialmente pensativo.
+      </p>
+
+      <p>
+        Por primera vez he sentido con fuerza la posibilidad de que tal vez
+        nunca vuelva a saber de ti. Que quizás la última conversación ya
+        ocurrió y yo no lo entendí en ese momento. Que quizás la historia
+        terminó y soy el único que sigue parado en el mismo lugar.
+      </p>
+
+      <p>
+        Y esa idea me rompe el alma.
+      </p>
+
+      <p>
+        No encuentro palabras elegantes para describir lo que siento.
+      </p>
+
+      <p>
+        Hay tristeza.
+      </p>
+
+      <p>
+        Hay agonía.
+      </p>
+
+      <p>
+        Hay culpa.
+      </p>
+
+      <p>
+        Hay arrepentimiento.
+      </p>
+
+      <p>
+        Y hay una cantidad inmensa de preguntas que probablemente nunca
+        tendrán respuesta.
+      </p>
+
+      <p>
+        Ojalá pudiera volver atrás.
+      </p>
+
+      <p>
+        Ojalá pudiera corregir mis errores.
+      </p>
+
+      <p>
+        Ojalá hubiera entendido antes el valor de lo que tenía.
+      </p>
+
+      <p>
+        Pero el tiempo no escucha deseos y la vida no concede repeticiones.
+      </p>
+
+      <p>
+        Así que hoy solo me queda escribir esto, porque es la única forma que
+        conozco de sacar un poco de todo lo que llevo dentro.
+      </p>
+
+      <p>
+        Y aunque cada día se vuelve más difícil mantener la esperanza,
+        todavía hay una parte de mí que te recuerda con cariño, que te extraña
+        profundamente y que desearía que las cosas hubieran sido diferentes.
+      </p>
+
+      <p className="italic">
+        Con amor, tristeza y arrepentimiento,
+      </p>
+
+      <p className="font-semibold">
+        Carlos
+      </p>
+    </div>
+  </div>
+</section>
       1 de Junio de 2026
     </p>
 
