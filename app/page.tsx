@@ -374,8 +374,8 @@ export default function Home() {
               Más real.
             </p>
           </motion.div>
-
         </div>
+</section>
 <section className="mb-20">
   <h2 className="text-4xl font-serif text-amber-200 mb-8 text-center">
     LA ÚLTIMA DESPEDIDA
