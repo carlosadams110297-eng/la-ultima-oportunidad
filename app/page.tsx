@@ -376,9 +376,350 @@ export default function Home() {
           </motion.div>
 
         </div>
+<section className="mb-20">
+  <h2 className="text-4xl font-serif text-amber-200 mb-8 text-center">
+    LA ÚLTIMA DESPEDIDA
+  </h2>
 
-      </section>
+  <div className="max-w-4xl mx-auto bg-black/30 p-8 rounded-lg backdrop-blur-sm">
+    <p className="text-amber-100 italic mb-6">
+      09 de junio de 2026
+    </p>
 
+    <div className="space-y-6 text-amber-50 leading-relaxed text-lg">
+      <p>
+        Sara,
+      </p>
+
+      <p>
+        Estuve esperando llegar a esta fecha.
+      </p>
+
+      <p>
+        Quizás porque, en el fondo de mi corazón, todavía existía una pequeña
+        esperanza de que pudiéramos hablar una última vez. No para volver atrás
+        en el tiempo ni para borrar todo lo que ocurrió, sino simplemente para
+        sentarnos frente a frente y conversar. Para intentar entendernos. Para
+        decirnos aquellas cosas que quedaron atrapadas entre el dolor, los
+        errores y el silencio.
+      </p>
+
+      <p>
+        Pero hoy entiendo que no quieres saber más de mí.
+      </p>
+
+      <p>
+        Y aunque me duele escribirlo, también siento que ha llegado el momento
+        de aceptar esa realidad.
+      </p>
+
+      <p>
+        Aquel día en el aeropuerto fue, sin ninguna duda, uno de los días más
+        difíciles de toda mi vida. No esperaba que dejaras todo y te fueras
+        conmigo. No era eso lo que buscaba. Sin embargo, había algo dentro de mí
+        que me hacía creer que aceptarías mi propuesta.
+      </p>
+
+      <p>
+        Lo único que quería era que nos diéramos una última oportunidad para
+        intentarlo de una forma diferente. Quería que fuéramos a un par de
+        sesiones con un terapeuta de pareja. Quería que alguien más pudiera
+        ayudarte a ver que lo que había dentro de mí nunca fue falta de amor,
+        ni falta de compromiso. Que mis errores nacieron de mis propias heridas,
+        de mis inseguridades y de mis miedos, pero nunca de la ausencia de amor
+        hacia ti.
+      </p>
+
+      <p>
+        Y si después de intentarlo aún decidías que no querías estar conmigo,
+        te habría dejado ir.
+      </p>
+
+      <p>
+        Me habría dolido, sí.
+      </p>
+
+      <p>
+        Pero lo habría aceptado.
+      </p>
+
+      <p>
+        Lo que me rompió por dentro fue sentir, en ese instante, que ya te
+        habías desprendido de mí. Que mientras yo seguía aferrado a nosotros,
+        tú ya estabas aprendiendo a caminar lejos de nuestra historia.
+      </p>
+
+      <p>
+        Desde entonces he intentado entenderlo todo.
+      </p>
+
+      <p>
+        He pasado noches enteras recordando cada momento que vivimos, cada
+        conversación, cada abrazo, cada viaje, cada promesa y cada sueño que
+        construimos juntos. He repasado tantas veces nuestra historia que ya
+        no sé cuántas versiones de ella existen en mi cabeza.
+      </p>
+
+      <p>
+        Y aun así, sigo llegando a la misma conclusión:
+      </p>
+
+      <p className="italic text-center text-xl">
+        Te amé con todo lo que tenía.
+      </p>
+
+      <p>
+        Quizás no siempre de la forma correcta.
+      </p>
+
+      <p>
+        Quizás no de la forma que necesitabas.
+      </p>
+
+      <p>
+        Pero te amé.
+      </p>
+
+      <p>
+        Por eso esta será mi última carta.
+      </p>
+
+      <p>
+        No porque haya dejado de sentir algo por ti.
+      </p>
+
+      <p>
+        Al contrario.
+      </p>
+
+      <p>
+        Porque te amo demasiado como para seguir persiguiendo una puerta que ya
+        decidiste cerrar.
+      </p>
+
+      <p>
+        Mi vida, a partir de este momento, será diferente. Honestamente, no sé
+        hacia dónde voy. Hay días en los que siento que camino por una carretera
+        oscura, sin señales y sin rumbo. Como si estuviera avanzando en medio de
+        la noche sin saber qué me espera más adelante.
+      </p>
+
+      <p>
+        Pero esta es la realidad que me tocó vivir.
+      </p>
+
+      <p>
+        Y debo aprender a aceptarla.
+      </p>
+
+      <p>
+        Espero que la vida te regale todo aquello que mereces. Espero que
+        encuentres paz. Que encuentres estabilidad. Que encuentres esa felicidad
+        que tantas veces deseé para ti incluso antes de conocerla en tu sonrisa.
+      </p>
+
+      <p>
+        Espero que cumplas cada sueño que me contaste alguna vez.
+      </p>
+
+      <p>
+        Espero que seas inmensamente feliz.
+      </p>
+
+      <p>
+        Y te prometo que no volveré a molestarte.
+      </p>
+
+      <p>
+        Como te dije aquel día en el aeropuerto, siempre tendrás un lugar dentro
+        de mí.
+      </p>
+
+      <p>
+        No importa cuánto tiempo pase.
+      </p>
+
+      <p>
+        No importa cuántos años transcurran.
+      </p>
+
+      <p>
+        Siempre habrá una parte de mi corazón donde existirá una versión de
+        nosotros caminando juntos, riendo juntos y creyendo que el mundo era un
+        lugar un poco mejor porque estábamos uno al lado del otro.
+      </p>
+
+      <p>
+        Eres y siempre serás el gran amor de mi vida.
+      </p>
+
+      <p>
+        Y aunque quizás nuestras historias ya no vuelvan a cruzarse en este
+        mundo, me aferro a aquella frase que me dijiste ese día:
+      </p>
+
+      <p className="italic text-center text-xl">
+        "Quizás en otra vida."
+      </p>
+
+      <p>
+        Si existe otra vida, espero encontrarte.
+      </p>
+
+      <p>
+        Y si existen mil vidas más, espero encontrarte en cada una de ellas.
+      </p>
+
+      <p>
+        Y si después de esta vida hay otros caminos, otros mundos o cualquier
+        rincón desconocido del universo, me gusta pensar que, de alguna manera,
+        volveré a reconocer tu mirada entre millones de personas.
+      </p>
+
+      <p>
+        Gracias, Sara.
+      </p>
+
+      <p>
+        Gracias por cada recuerdo.
+      </p>
+
+      <p>
+        Gracias por cada enseñanza.
+      </p>
+
+      <p>
+        Gracias por cada momento que compartiste conmigo.
+      </p>
+
+      <p>
+        Gracias por haber sido el capítulo más hermoso de mis 29 años.
+      </p>
+
+      <p className="text-center italic text-xl mt-10">
+        Te amo.
+      </p>
+
+      <p className="text-center">
+        Y aunque hoy te dejo ir, una parte de mí siempre llevará tu nombre.
+      </p>
+
+      <p className="text-center italic mt-8">
+        Carlos
+      </p>
+    </div>
+  </div>
+</section>
+    {/* CARTA 5 JUNIO */}
+    <div className="bg-black/30 p-10 rounded-xl border border-amber-200/20 backdrop-blur-sm">
+      <p className="text-amber-300 italic mb-4">
+        5 de junio de 2026
+      </p>
+
+      <h3 className="text-3xl font-serif text-amber-100 mb-8">
+        El silencio se hace más grande
+      </h3>
+
+      <p className="text-amber-50 leading-9">
+        Ayer me di cuenta de algo que, aunque quizás en el fondo ya sabía,
+        me golpeó como si fuera la primera vez.
+        <br /><br />
+        Me bloqueaste de nuevo.
+        <br /><br />
+        Por extraño que parezca, una pequeña parte de mí todavía conservaba
+        la esperanza de que aquel lugar siguiera abierto.
+        <br /><br />
+        Ha pasado casi un mes y sigo preguntándome cómo estás,
+        si estás bien y si alguna vez volveré a saber de ti.
+        <br /><br />
+        Tal vez estas palabras nunca lleguen a tus ojos.
+        Tal vez esta página ya no forme parte de tu vida.
+        <br /><br />
+        Pero escribir sigue siendo la única forma que tengo de conversar
+        con tu recuerdo.
+      </p>
+    </div>
+
+    {/* CARTA 1 JUNIO */}
+    <div className="bg-black/30 p-10 rounded-xl border border-amber-200/20 backdrop-blur-sm">
+      <p className="text-amber-300 italic mb-4">
+        1 de junio de 2026
+      </p>
+
+      <h3 className="text-3xl font-serif text-amber-100 mb-8">
+        Todavía sueño contigo
+      </h3>
+
+      <p className="text-amber-50 leading-9">
+        Desde aquel sábado no ha existido una sola noche en la que no
+        aparezcas en mis sueños.
+        <br /><br />
+        Es extraño porque se ha convertido en el momento que más espero
+        y que más temo al mismo tiempo.
+        <br /><br />
+        Por unas horas vuelvo a escucharte.
+        Vuelvo a abrazarte.
+        Vuelvo a creer que nada de esto ocurrió.
+        <br /><br />
+        Y después despierto.
+        <br /><br />
+        Entonces la habitación vuelve a estar vacía y la realidad
+        regresa con todo su peso.
+      </p>
+    </div>
+
+    {/* CARTA 31 MAYO */}
+    <div className="bg-black/30 p-10 rounded-xl border border-amber-200/20 backdrop-blur-sm">
+      <p className="text-amber-300 italic mb-4">
+        31 de mayo de 2026
+      </p>
+
+      <h3 className="text-3xl font-serif text-amber-100 mb-8">
+        A pocos días de tu regreso
+      </h3>
+
+      <p className="text-amber-50 leading-9">
+        Cada día que pasa falta menos para que regreses a Chile.
+        <br /><br />
+        Debería sentir tranquilidad, pero ocurre exactamente lo contrario.
+        <br /><br />
+        La ansiedad crece.
+        La incertidumbre también.
+        <br /><br />
+        No sé si volveremos a hablar.
+        No sé si volveré a verte.
+        <br /><br />
+        Solo sé que sigues siendo la persona que más extraño.
+      </p>
+    </div>
+
+    {/* CARTA 30 MAYO */}
+    <div className="bg-black/30 p-10 rounded-xl border border-amber-200/20 backdrop-blur-sm">
+      <p className="text-amber-300 italic mb-4">
+        30 de mayo de 2026
+      </p>
+
+      <h3 className="text-3xl font-serif text-amber-100 mb-8">
+        El peso del silencio
+      </h3>
+
+      <p className="text-amber-50 leading-9">
+        Hoy vuelvo a escribirte.
+        <br /><br />
+        Lo que más duele no es un mensaje sin respuesta.
+        <br /><br />
+        Lo que más duele es comenzar a entender que quizás ya no exista
+        un espacio para mí en tu vida.
+        <br /><br />
+        Aun así sigo aquí.
+        Escribiendo.
+        Esperando.
+        Recordando.
+      </p>
+    </div>
+
+  </div>
+</section>
       {/* VOLVER A LEERME */}
       <section className="py-40 px-6 text-center">
 
@@ -1340,27 +1681,7 @@ export default function Home() {
   </p>
 </div>
 </section>
-            Nunca dejé de amarte.
-            <br /><br />
-            Lo que pasó fue que dejé de saber cómo sostenerme a mí mismo.
-            <br /><br />
-            Mis inseguridades, mis heridas y mis miedos
-            terminaron destruyendo partes de nosotros.
-            <br /><br />
-            Pero hoy entiendo que no quiero volver al pasado.
-            <br /><br />
-            Quiero construir contigo una nueva versión de nosotros.
-            <br /><br />
-            Más sana.
-            <br />
-            Más fuerte.
-            <br />
-            Más real.
-            <br /><br />
-            Y si algún día decides volver a tomar mi mano…
-            prometo que esta vez quiero caminar contigo desde la paz y no desde el miedo.
-          </motion.p>
-
+           
           <motion.button
             whileHover={{ scale: 1.05 }}
             className="bg-[#7b1e3c] text-white px-10 py-5 rounded-full text-xl shadow-2xl"
@@ -1373,5 +1694,3 @@ export default function Home() {
       </section>
 
     </main>
-  );
-}
